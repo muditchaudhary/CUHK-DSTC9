@@ -31,9 +31,7 @@ from transformers import (
 )
 
 from .dataset import (
-    #ResponseGenerationDataset,
     KnowledgeSelectionDataset,
-    #KnowledgeTurnDetectionDataset,
     SPECIAL_TOKENS
 )
 from .models import GPT2ClsDoubleHeadsModel
@@ -62,12 +60,8 @@ logger = logging.getLogger(__name__)
 
 
 def get_classes(task):
-    #if task.lower() == "generation":
-        #return ResponseGenerationDataset, GPT2LMHeadModel, run_batch_generation, run_batch_generation
     if task.lower() == "selection":
         return KnowledgeSelectionDataset, BertForMultipleChoice, run_batch_selection_train, run_batch_selection_eval
-    #elif task.lower() == "detection":
-        #return KnowledgeTurnDetectionDataset, GPT2ClsDoubleHeadsModel, run_batch_detection, run_batch_detection
     else:
         raise ValueError("args.task not in ['generation', 'selection', 'detection'], got %s" % task)
 
@@ -143,11 +137,6 @@ def train(args, train_dataset, eval_dataset, model: PreTrainedModel, tokenizer: 
         epoch_iterator = tqdm(train_dataloader, desc="Iteration", disable=args.local_rank not in [-1, 0])
         print("length of epoch_iterator is ", len(epoch_iterator))
         for step, batch in enumerate(epoch_iterator):
-            # if step % 200 == 0:
-            #     print("++++++++++++++")
-            #     print("batch: \n")
-            #     print(batch)
-            #     print("batch length = ", len(batch))
             model.train()
             loss, _, _ = run_batch_fn_train(args, model, batch)
 

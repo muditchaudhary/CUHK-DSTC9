@@ -1,0 +1,4 @@
+0:hotel
+1:restaurant
+2:taxi
+3:train

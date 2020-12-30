@@ -6,7 +6,7 @@ version="baseline"
 # The input files are knowledge.json and logs.json. labels.json is not required
 
 # Prepare directories for intermediate results of each subtask
-mkdir -p pred/val
+mkdir -p pred/test-data/dstc9all-256dh-5cand
 
 
 # Next we do knowledge selection based on the predictions generated previously

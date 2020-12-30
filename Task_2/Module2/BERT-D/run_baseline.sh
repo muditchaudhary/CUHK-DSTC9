@@ -3,7 +3,7 @@
 version="baseline"
 
 # Prepare directories for intermediate results of each subtask
-mkdir -p pred/val
+mkdir -p pred/test-data/combined8domainsall-256dh-128kn-4cand-10epoch
 
 python3 baseline.py --eval_only --checkpoint runs/ks-all-${version}-combined8domainsall-256dh-128kn-4cand-10epoch/checkpoint-50450 \
    --eval_all_snippets \

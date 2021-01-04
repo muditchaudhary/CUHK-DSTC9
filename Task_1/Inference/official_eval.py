@@ -18,9 +18,7 @@ classifier = pipeline("zero-shot-classification", model=model)
 from tqdm import tqdm
 from torch.utils.data import DataLoader, RandomSampler, SequentialSampler
 
-
-
-def evaluate(args,eval_dataset):
+def evaluate(args,eval_dataset,outfile):
     args.eval_batch_size=1
     eval_sampler=SequentialSampler(eval_dataset)
     # Set eval batch size = 1
@@ -63,7 +61,6 @@ def evaluate(args,eval_dataset):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser = argparse.ArgumentParser()
 
     parser.add_argument("--params_file", type=str, help="JSON configuration file")
     parser.add_argument("--eval_only", action="store_true",
@@ -73,6 +70,7 @@ if __name__ == '__main__':
                         help="Path to dataset.")
     parser.add_argument("--eval_dataset", type=str, default="val",
                         help="Dataset to evaluate on, will load dataset from {dataroot}/{eval_dataset}")
+    parser.add_argument("--outfile", type=str, help="File to save predictions")
     parser.add_argument("--device", type=str, default="cuda" if torch.cuda.is_available() else "cpu",
                         help="Device (cuda or cpu)")
     # parser.add_argument('--labels', '--list', nargs='+', help='Labels', required=True)

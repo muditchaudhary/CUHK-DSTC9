@@ -67,32 +67,14 @@ class DSTC_NLI_Dataset_for_Pipe(torch.utils.data.Dataset):
         """
         global domain_set
         if self.if_ood == False:
-            with open(os.path.join(self.dataroot, self.split_type, "logs_test.json")) as logs_file:
+            with open(os.path.join(self.dataroot, self.split_type, "logs.json")) as logs_file:
                 logs = json.load(logs_file)
-
-            with open(os.path.join(self.dataroot, self.split_type, "labels.json")) as labels_file:
-                labels = json.load(labels_file)
-            #with open(os.path.join(self.dataroot, self.split_type, "database.json")) as extracted_data_file:
-            #    self.extracted_data = json.load(extracted_data_file)
+            # with open(os.path.join(self.dataroot, self.split_type, "labels.json")) as labels_file:
+            #    labels = json.load(labels_file)
             with open(os.path.join(self.dataroot, "knowledge.json")) as knowledge_file:
                 self.knowledge = json.load(knowledge_file)
 
-            #with open('test_name_cls_split8_k.json', 'r') as names_file:
-            #    self.names = json.load(names_file)
-
         database_dialog, database_label = load_database.load_database(self.extracted_data)
-
-        #print('database_dialog', len(database_dialog), 'log', len([label for label in labels if label['target'] == True]))
-        #if len(database_label) > len([label for label in labels if label['target'] == True]):
-        #    sampled_database = random.sample(list(zip(database_dialog, database_label)),
-        #                                     len([label for label in labels if label['target'] == True]))
-
-        #print('len here', len(sampled_database))
-
-        #database_dialog = [dialog_label_pair[0] for dialog_label_pair in sampled_database]
-        #database_label = [dialog_label_pair[1] for dialog_label_pair in sampled_database]
-        #print('database_dialog', len(database_dialog), 'log', len([label for label in labels if label['target'] == True]))
-        #num = 0
         for log in tqdm(logs, disable=False):
             example = {}
             if (len(log) > 2 and self.utterance_window == 3):

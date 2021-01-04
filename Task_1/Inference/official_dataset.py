@@ -108,7 +108,6 @@ class DSTC_NLI_Dataset_for_Pipe(torch.utils.data.Dataset):
             example['choices'] = []
             example['choice_types'] = []
             domain = extract_domain(premise=premise, labels_list=domain_set)
-            domain = domain["Pred_domain"]
             name = extract_entity(log=log, domain=domain, entity_list=entity_names_for_all_domains)
             entity_id = self.find_knowledge_entity_id(name, domain)
             database_examples = self.get_database_knowledge_for_knowledge_example(premise, domain, entity_id)
@@ -372,7 +371,7 @@ class DSTC_NLI_Dataset_for_Pipe(torch.utils.data.Dataset):
 
     def name_cls(self, log, domain):
 
-        with open("./db/"+domain + '_db.json', 'r') as f:
+        with open(domain + '_db.json', 'r') as f:
             domain_dataset = json.load(f)
 
         log_text = ''

@@ -86,7 +86,7 @@ class DSTC_NLI_Dataset_for_Pipe(torch.utils.data.Dataset):
             else:
                 premise = self.User_response_prefix + log[-1]['text']
 
-            example['logs'] = premise
+            example['logs'] = log
             example['choices'] = []
             example['choice_types'] = []
             domain = extract_domain(premise=premise, labels_list=domain_set)

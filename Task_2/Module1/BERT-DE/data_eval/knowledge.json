@@ -1,0 +1,2016 @@
+{
+ "hotel": {
+  "0": {
+   "name": "A AND B GUEST HOUSE"
+  },
+  "1": {
+   "name": "ACORN GUEST HOUSE"
+  },
+  "2": {
+   "name": "ALEXANDER BED AND BREAKFAST"
+  },
+  "3": {
+   "name": "ALLENBELL"
+  },
+  "4": {
+   "name": "ALPHA-MILTON GUEST HOUSE"
+  },
+  "5": {
+   "name": "ARBURY LODGE GUESTHOUSE"
+  },
+  "6": {
+   "name": "ARCHWAY HOUSE"
+  },
+  "7": {
+   "name": "ASHLEY HOTEL"
+  },
+  "8": {
+   "name": "AUTUMN HOUSE"
+  },
+  "9": {
+   "name": "AVALON"
+  },
+  "10": {
+   "name": "AYLESBRAY LODGE GUEST HOUSE"
+  },
+  "11": {
+   "name": "BRIDGE GUEST HOUSE"
+  },
+  "12": {
+   "name": "CAROLINA BED AND BREAKFAST"
+  },
+  "13": {
+   "name": "CITY CENTRE NORTH B AND B"
+  },
+  "14": {
+   "name": "CITYROOMZ"
+  },
+  "15": {
+   "name": "EL SHADDAI"
+  },
+  "16": {
+   "name": "EXPRESS BY HOLIDAY INN CAMBRIDGE"
+  },
+  "17": {
+   "name": "FINCHES BED AND BREAKFAST"
+  },
+  "18": {
+   "name": "GONVILLE HOTEL"
+  },
+  "19": {
+   "name": "HAMILTON LODGE"
+  },
+  "20": {
+   "name": "HOBSONS HOUSE"
+  },
+  "21": {
+   "name": "HOME FROM HOME"
+  },
+  "22": {
+   "name": "HUNTINGDON MARRIOTT HOTEL"
+  },
+  "23": {
+   "name": "KIRKWOOD HOUSE"
+  },
+  "24": {
+   "name": "LEVERTON HOUSE"
+  },
+  "25": {
+   "name": "LIMEHOUSE"
+  },
+  "26": {
+   "name": "LOVELL LODGE"
+  },
+  "27": {
+   "name": "ROSA'S BED AND BREAKFAST"
+  },
+  "28": {
+   "name": "THE CAMBRIDGE BELFRY"
+  },
+  "29": {
+   "name": "THE LENSFIELD HOTEL"
+  },
+  "30": {
+   "name": "UNIVERSITY ARMS HOTEL"
+  },
+  "31": {
+   "name": "WARKWORTH HOUSE"
+  },
+  "32": {
+   "name": "WORTH HOUSE"
+  },
+  "110001": {
+   "name": "Adelaide Hostel"
+  },
+  "110002": {
+   "name": "Admiral Hotel"
+  },
+  "110003": {
+   "name": "Aida Plaza Hotel"
+  },
+  "110005": {
+   "name": "Alpha Inn and Suites"
+  },
+  "110006": {
+   "name": "Americania Hotel"
+  },
+  "110008": {
+   "name": "Amsterdam Hostel"
+  },
+  "110009": {
+   "name": "Andrews Hotel"
+  },
+  "110010": {
+   "name": "Argonaut Hotel, a Noble House Hotel"
+  },
+  "110012": {
+   "name": "Axiom Hotel"
+  },
+  "110013": {
+   "name": "Bay Bridge Inn San Francisco"
+  },
+  "110015": {
+   "name": "BEI Hotel San Francisco"
+  },
+  "110016": {
+   "name": "Bel Air Hotel"
+  },
+  "110018": {
+   "name": "Buena Vista Motor Inn"
+  },
+  "110019": {
+   "name": "Cable Car Hotel"
+  },
+  "110020": {
+   "name": "Carriage Inn"
+  },
+  "110021": {
+   "name": "Chancellor Hotel on Union Square"
+  },
+  "110022": {
+   "name": "Chateau Tivoli Bed and Breakfast"
+  },
+  "110023": {
+   "name": "Chelsea Inn"
+  },
+  "110024": {
+   "name": "Civic Center Inn"
+  },
+  "110025": {
+   "name": "Civic Center Motor Inn"
+  },
+  "110026": {
+   "name": "Club Donatello"
+  },
+  "110027": {
+   "name": "Club Quarters Hotel in San Francisco"
+  },
+  "110028": {
+   "name": "Columbus Inn"
+  },
+  "110029": {
+   "name": "Comfort Inn By the Bay Hotel San Francisco"
+  },
+  "110030": {
+   "name": "Cornell Hotel de France"
+  },
+  "110031": {
+   "name": "Courtyard by Marriott Fishermans Wharf"
+  },
+  "110032": {
+   "name": "Courtyard by Marriott San Francisco Downtown"
+  },
+  "110033": {
+   "name": "Courtyard by Marriott San Francisco Downtown/Van Ness Ave"
+  },
+  "110034": {
+   "name": "Courtyard by Marriott San Francisco Union Square"
+  },
+  "110035": {
+   "name": "Cova Hotel"
+  },
+  "110036": {
+   "name": "Coventry Inn"
+  },
+  "110037": {
+   "name": "Cow Hollow Inn and Suites"
+  },
+  "110038": {
+   "name": "Dakota Hostel and Hotel"
+  },
+  "110039": {
+   "name": "Days Inn by Wyndham San Francisco Downtown/Civic Cntr Area"
+  },
+  "110040": {
+   "name": "Desmond Hotel"
+  },
+  "110041": {
+   "name": "Europa Hostel"
+  },
+  "110042": {
+   "name": "Europa Hotel"
+  },
+  "110043": {
+   "name": "European Hostel"
+  },
+  "110044": {
+   "name": "Executive Hotel Vintage Court"
+  },
+  "110045": {
+   "name": "Fairmont San Francisco"
+  },
+  "110046": {
+   "name": "Fitzgerald Hotel Union Square"
+  },
+  "110047": {
+   "name": "FOUND Hotel San Francisco"
+  },
+  "110048": {
+   "name": "Four Seasons Hotel San Francisco"
+  },
+  "110049": {
+   "name": "Francisco Bay Inn"
+  },
+  "110050": {
+   "name": "Galleria Park, a Joie de Vivre Hotel"
+  },
+  "110051": {
+   "name": "Golden Gate Hotel"
+  },
+  "110052": {
+   "name": "Good Hotel"
+  },
+  "110053": {
+   "name": "Grant Hotel"
+  },
+  "110054": {
+   "name": "Grant Plaza Hotel"
+  },
+  "110055": {
+   "name": "Green Tortoise Hostel"
+  },
+  "110057": {
+   "name": "Hampton Inn San Francisco Downtown/Convention Center"
+  },
+  "110059": {
+   "name": "Harbor Court Hotel"
+  },
+  "110061": {
+   "name": "Hayes Valley Inn"
+  },
+  "110062": {
+   "name": "HI San Francisco City Center Hostel"
+  },
+  "110063": {
+   "name": "HI San Francisco Downtown Hostel"
+  },
+  "110064": {
+   "name": "Hilton Parc 55 San Francisco Union Square"
+  },
+  "110065": {
+   "name": "Hilton San Francisco Financial District"
+  },
+  "110066": {
+   "name": "Hilton San Francisco Union Square"
+  },
+  "110068": {
+   "name": "Holiday Inn Express San Francisco-Union Square"
+  },
+  "110069": {
+   "name": "Holiday Inn Fisherman's Wharf"
+  },
+  "110070": {
+   "name": "Holiday Inn San Francisco - Golden Gateway"
+  },
+  "110076": {
+   "name": "Hotel Bijou"
+  },
+  "110077": {
+   "name": "Hotel Boheme"
+  },
+  "110079": {
+   "name": "Hotel Del Sol, a Joie de Vivre Hotel"
+  },
+  "110080": {
+   "name": "Hotel Drisco"
+  },
+  "110084": {
+   "name": "Hotel Griffon"
+  },
+  "110085": {
+   "name": "Hotel Kabuki, a Joie de Vivre Hotel"
+  },
+  "110086": {
+   "name": "Hotel Nikko San Francisco"
+  },
+  "110088": {
+   "name": "Hotel Riu Plaza Fisherman's Wharf"
+  },
+  "110089": {
+   "name": "Hotel Spero"
+  },
+  "110090": {
+   "name": "Hotel Sunrise"
+  },
+  "110094": {
+   "name": "Hotel Vitale, a Joie de Vivre Hotel"
+  },
+  "110095": {
+   "name": "Hotel Zelos San Francisco"
+  },
+  "110096": {
+   "name": "Hotel Zephyr San Francisco"
+  },
+  "110099": {
+   "name": "Hotel Zoe Fisherman's Wharf"
+  },
+  "110100": {
+   "name": "Howard Johnson by Wyndham San Francisco Marina District"
+  },
+  "110102": {
+   "name": "Hyatt Centric Fisherman's Wharf San Francisco"
+  },
+  "110103": {
+   "name": "Hyatt Place San Francisco/Downtown"
+  },
+  "110104": {
+   "name": "Hyatt Regency San Francisco"
+  },
+  "110107": {
+   "name": "Inn at the Opera"
+  },
+  "110108": {
+   "name": "Inn at Union Square, a Greystone Hotel"
+  },
+  "110109": {
+   "name": "Inn on Broadway"
+  },
+  "110110": {
+   "name": "Inn on Folsom"
+  },
+  "110111": {
+   "name": "Inn San Francisco"
+  },
+  "110113": {
+   "name": "InterContinental San Francisco"
+  },
+  "110114": {
+   "name": "Jackson Court"
+  },
+  "110115": {
+   "name": "JW Marriott San Francisco Union Square"
+  },
+  "110116": {
+   "name": "Kensington Park Hotel"
+  },
+  "110117": {
+   "name": "Kimpton Buchanan Hotel"
+  },
+  "110118": {
+   "name": "Kimpton Sir Francis Drake Hotel"
+  },
+  "110119": {
+   "name": "King George"
+  },
+  "110120": {
+   "name": "Laurel Inn, a Joie de Vivre Hotel"
+  },
+  "110121": {
+   "name": "Layne Hotel"
+  },
+  "110124": {
+   "name": "Lombard Plaza Motel"
+  },
+  "110125": {
+   "name": "Luz Hotel"
+  },
+  "110128": {
+   "name": "Minna Hotel"
+  },
+  "110131": {
+   "name": "Motel 6 San Francisco Downtown"
+  },
+  "110134": {
+   "name": "Nineteen 06 Mission"
+  },
+  "110135": {
+   "name": "Nob Hill Hotel"
+  },
+  "110136": {
+   "name": "Nob Hill Inn"
+  },
+  "110137": {
+   "name": "Nob Hill Motor Inn"
+  },
+  "110138": {
+   "name": "Noe's Nest Bed and Breakfast"
+  },
+  "110139": {
+   "name": "Oasis Inn"
+  },
+  "110140": {
+   "name": "Orange Village Hostel"
+  },
+  "110141": {
+   "name": "Orchard Garden Hotel"
+  },
+  "110142": {
+   "name": "Orchard Hotel"
+  },
+  "110143": {
+   "name": "Pacific Heights Inn by Magnuson Worldwide"
+  },
+  "110147": {
+   "name": "Parker Guest House"
+  },
+  "110148": {
+   "name": "Petite Auberge"
+  },
+  "110149": {
+   "name": "Phoenix Hotel"
+  },
+  "110151": {
+   "name": "Presidio Parkway Inn"
+  },
+  "110152": {
+   "name": "Ram's Hotel"
+  },
+  "110153": {
+   "name": "Royal Pacific Motor Inn"
+  },
+  "110154": {
+   "name": "San Francisco Marriott Fisherman's Wharf"
+  },
+  "110156": {
+   "name": "San Francisco Marriott Union Square"
+  },
+  "110157": {
+   "name": "San Francisco Proper Hotel"
+  },
+  "110160": {
+   "name": "SF Plaza Hotel"
+  },
+  "110161": {
+   "name": "Signature San Francisco"
+  },
+  "110162": {
+   "name": "SOMA Park Inn"
+  },
+  "110163": {
+   "name": "St. Regis San Francisco"
+  },
+  "110167": {
+   "name": "SW Hotel"
+  },
+  "110168": {
+   "name": "Taj Campton Place"
+  },
+  "110169": {
+   "name": "Taylor Hotel San Francisco"
+  },
+  "110173": {
+   "name": "The Clift Royal Sonesta San Francisco"
+  },
+  "110175": {
+   "name": "The Fairmont Heritage Place Ghirardelli Square"
+  },
+  "110176": {
+   "name": "The Grove Inn"
+  },
+  "110177": {
+   "name": "The Marker San Francisco"
+  },
+  "110178": {
+   "name": "The Monarch Hotel"
+  },
+  "110182": {
+   "name": "The Ritz-Carlton, San Francisco"
+  },
+  "110183": {
+   "name": "The Suites at Fisherman's Wharf"
+  },
+  "110185": {
+   "name": "The Wharf Inn"
+  },
+  "110186": {
+   "name": "The Willows Inn"
+  },
+  "110187": {
+   "name": "Tilden Hotel"
+  },
+  "110188": {
+   "name": "Travelodge by Wyndham by Fisherman's Wharf"
+  },
+  "110189": {
+   "name": "Travelodge by Wyndham Presidio San Francisco"
+  },
+  "110191": {
+   "name": "Travelodge by Wyndham San Francisco Central"
+  },
+  "110192": {
+   "name": "Twin Peaks Hotel"
+  },
+  "110193": {
+   "name": "Union Square Plaza Hotel"
+  },
+  "110194": {
+   "name": "University Club of San Francisco"
+  },
+  "110197": {
+   "name": "W San Francisco"
+  },
+  "110198": {
+   "name": "Warfield Hotel"
+  },
+  "110200": {
+   "name": "Washington Square Inn"
+  },
+  "110201": {
+   "name": "White Swan Inn"
+  },
+  "110202": {
+   "name": "Winsor Hotel"
+  },
+  "110204": {
+   "name": "Yale Hotel"
+  }
+ },
+ "restaurant": {
+  "508": {
+   "name": "MIDSUMMER HOUSE RESTAURANT"
+  },
+  "3697": {
+   "name": "DE LUCA CUCINA AND BAR"
+  },
+  "4607": {
+   "name": "HOTEL DU VIN AND BISTRO"
+  },
+  "6780": {
+   "name": "GALLERIA"
+  },
+  "6941": {
+   "name": "THE CAMBRIDGE CHOP HOUSE"
+  },
+  "7236": {
+   "name": "THE RIVER BAR STEAKHOUSE AND GRILL"
+  },
+  "7492": {
+   "name": "GRAFFITI"
+  },
+  "10347": {
+   "name": "RIVERSIDE BRASSERIE"
+  },
+  "12237": {
+   "name": "NANDOS CITY CENTRE"
+  },
+  "12238": {
+   "name": "NANDOS"
+  },
+  "12482": {
+   "name": "THE SLUG AND LETTUCE"
+  },
+  "12566": {
+   "name": "LA TASCA"
+  },
+  "12638": {
+   "name": "WAGAMAMA"
+  },
+  "12700": {
+   "name": "PREZZO"
+  },
+  "13071": {
+   "name": "THE OAK BISTRO"
+  },
+  "14731": {
+   "name": "RESTAURANT ALIMENTUM"
+  },
+  "14742": {
+   "name": "BLOOMSBURY RESTAURANT"
+  },
+  "14810": {
+   "name": "SAINT JOHNS CHOP HOUSE"
+  },
+  "15275": {
+   "name": "MAHAL OF CAMBRIDGE"
+  },
+  "19171": {
+   "name": "COTTO"
+  },
+  "19172": {
+   "name": "HK FUSION"
+  },
+  "19173": {
+   "name": "SHANGHAI FAMILY RESTAURANT"
+  },
+  "19174": {
+   "name": "TANG CHINESE"
+  },
+  "19175": {
+   "name": "YIPPEE NOODLE BAR"
+  },
+  "19176": {
+   "name": "CLOWNS CAFE"
+  },
+  "19177": {
+   "name": "DARRYS COOKHOUSE AND WINE SHOP"
+  },
+  "19178": {
+   "name": "EFES RESTAURANT"
+  },
+  "19180": {
+   "name": "KOHINOOR"
+  },
+  "19181": {
+   "name": "KYMMOY"
+  },
+  "19182": {
+   "name": "THE GOLDEN CURRY"
+  },
+  "19183": {
+   "name": "BEDOUIN"
+  },
+  "19184": {
+   "name": "CURRY QUEEN"
+  },
+  "19185": {
+   "name": "RICE HOUSE"
+  },
+  "19186": {
+   "name": "LAN HONG HOUSE"
+  },
+  "19187": {
+   "name": "PANAHAR"
+  },
+  "19188": {
+   "name": "BACKSTREET BISTRO"
+  },
+  "19189": {
+   "name": "MEZE BAR"
+  },
+  "19190": {
+   "name": "ROYAL STANDARD"
+  },
+  "19191": {
+   "name": "TAJ TANDOORI"
+  },
+  "19192": {
+   "name": "THE GOOD LUCK CHINESE FOOD TAKEAWAY"
+  },
+  "19194": {
+   "name": "CHIQUITO RESTAURANT BAR"
+  },
+  "19195": {
+   "name": "FRANKIE AND BENNYS"
+  },
+  "19196": {
+   "name": "PIZZA HUT CHERRY HINTON"
+  },
+  "19197": {
+   "name": "THE LUCKY STAR"
+  },
+  "19198": {
+   "name": "SITAR TANDOORI"
+  },
+  "19209": {
+   "name": "GOURMET BURGER KITCHEN"
+  },
+  "19210": {
+   "name": "PIZZA HUT CITY CENTRE"
+  },
+  "19211": {
+   "name": "RESTAURANT ONE SEVEN"
+  },
+  "19212": {
+   "name": "CHARLIE CHAN"
+  },
+  "19213": {
+   "name": "PIZZA EXPRESS"
+  },
+  "19214": {
+   "name": "CURRY GARDEN"
+  },
+  "19215": {
+   "name": "J RESTAURANT"
+  },
+  "19216": {
+   "name": "LITTLE SEOUL"
+  },
+  "19217": {
+   "name": "SHIRAZ RESTAURANT"
+  },
+  "19218": {
+   "name": "THE GANDHI"
+  },
+  "19219": {
+   "name": "GOLDEN HOUSE"
+  },
+  "19220": {
+   "name": "SAFFRON BRASSERIE"
+  },
+  "19221": {
+   "name": "ALI BABA"
+  },
+  "19222": {
+   "name": "SESAME RESTAURANT AND BAR"
+  },
+  "19223": {
+   "name": "LOCH FYNE"
+  },
+  "19224": {
+   "name": "FITZBILLIES RESTAURANT"
+  },
+  "19225": {
+   "name": "DOJO NOODLE BAR"
+  },
+  "19226": {
+   "name": "THE COPPER KETTLE"
+  },
+  "19227": {
+   "name": "MICHAELHOUSE CAFE"
+  },
+  "19228": {
+   "name": "UGLY DUCKLING"
+  },
+  "19229": {
+   "name": "ASK RESTAURANT"
+  },
+  "19230": {
+   "name": "COTE"
+  },
+  "19231": {
+   "name": "CURRY KING"
+  },
+  "19232": {
+   "name": "ANATOLIA"
+  },
+  "19234": {
+   "name": "CAFFE UNO"
+  },
+  "19235": {
+   "name": "THE VARSITY RESTAURANT"
+  },
+  "19236": {
+   "name": "BANGKOK CITY"
+  },
+  "19237": {
+   "name": "LA RAZA"
+  },
+  "19238": {
+   "name": "THE GARDENIA"
+  },
+  "19239": {
+   "name": "DON PASQUALE PIZZERIA"
+  },
+  "19240": {
+   "name": "STAZIONE RESTAURANT AND COFFEE BAR"
+  },
+  "19242": {
+   "name": "JINLING NOODLE BAR"
+  },
+  "19245": {
+   "name": "ERAINA"
+  },
+  "19246": {
+   "name": "PEKING RESTAURANT"
+  },
+  "19247": {
+   "name": "LA MARGHERITA"
+  },
+  "19248": {
+   "name": "THANH BINH"
+  },
+  "19249": {
+   "name": "COCUM"
+  },
+  "19250": {
+   "name": "MAHARAJAH TANDOORI RESTAURANT"
+  },
+  "19251": {
+   "name": "TRAVELLERS REST"
+  },
+  "19252": {
+   "name": "CAMBRIDGE LODGE RESTAURANT"
+  },
+  "19254": {
+   "name": "INDIA HOUSE"
+  },
+  "19255": {
+   "name": "RICE BOAT"
+  },
+  "19256": {
+   "name": "SALA THONG"
+  },
+  "19257": {
+   "name": "ROYAL SPICE"
+  },
+  "19258": {
+   "name": "THE HOTPOT"
+  },
+  "19259": {
+   "name": "DA VINCI PIZZERIA"
+  },
+  "19260": {
+   "name": "HAKKA"
+  },
+  "19261": {
+   "name": "SAIGON CITY"
+  },
+  "19262": {
+   "name": "CITY STOP RESTAURANT"
+  },
+  "19263": {
+   "name": "THE NIRALA"
+  },
+  "19264": {
+   "name": "RESTAURANT TWO TWO"
+  },
+  "19265": {
+   "name": "GOLDEN WOK"
+  },
+  "19266": {
+   "name": "TANDOORI PALACE"
+  },
+  "19267": {
+   "name": "MEGHNA"
+  },
+  "19268": {
+   "name": "LA MIMOSA"
+  },
+  "19269": {
+   "name": "PIZZA EXPRESS FEN DITTON"
+  },
+  "19270": {
+   "name": "CURRY PRINCE"
+  },
+  "19271": {
+   "name": "GRAFTON HOTEL RESTAURANT"
+  },
+  "19272": {
+   "name": "PIPASHA RESTAURANT"
+  },
+  "19273": {
+   "name": "YU GARDEN"
+  },
+  "19274": {
+   "name": "RAJMAHAL"
+  },
+  "19275": {
+   "name": "PIZZA HUT FEN DITTON"
+  },
+  "29652": {
+   "name": "ZIZZI CAMBRIDGE"
+  },
+  "30650": {
+   "name": "THE MISSING SOCK"
+  },
+  "31390": {
+   "name": "THE COW PIZZA KITCHEN AND BAR"
+  },
+  "120001": {
+   "name": "A Desi Cafe"
+  },
+  "120002": {
+   "name": "A La Turca Restaurant"
+  },
+  "120003": {
+   "name": "A Mano"
+  },
+  "120004": {
+   "name": "Aha Fresh"
+  },
+  "120006": {
+   "name": "Alamo Square Seafood Grill"
+  },
+  "120007": {
+   "name": "Alexander's Steakhouse"
+  },
+  "120008": {
+   "name": "Aliment"
+  },
+  "120010": {
+   "name": "Amarena"
+  },
+  "120013": {
+   "name": "Anchor Oyster Bar"
+  },
+  "120015": {
+   "name": "Aria Korean Street Food"
+  },
+  "120016": {
+   "name": "Arizmendi Bakery"
+  },
+  "120019": {
+   "name": "Asian Box"
+  },
+  "120020": {
+   "name": "Atelier Crenn"
+  },
+  "120021": {
+   "name": "Azalina's"
+  },
+  "120022": {
+   "name": "Aziza"
+  },
+  "120023": {
+   "name": "B on the Go"
+  },
+  "120025": {
+   "name": "Bac Lieu Restaurant"
+  },
+  "120027": {
+   "name": "Balompie Cafe"
+  },
+  "120030": {
+   "name": "Basa Seafood Express"
+  },
+  "120031": {
+   "name": "Bay Subs & Deli"
+  },
+  "120033": {
+   "name": "Beit Rima - Duboce Triangle"
+  },
+  "120034": {
+   "name": "Beit Rima - Cole Valley"
+  },
+  "120035": {
+   "name": "Bella Trattoria"
+  },
+  "120036": {
+   "name": "Bellota"
+  },
+  "120037": {
+   "name": "Ben Thai Cafe"
+  },
+  "120038": {
+   "name": "Benu"
+  },
+  "120039": {
+   "name": "Berber"
+  },
+  "120040": {
+   "name": "Besharam"
+  },
+  "120044": {
+   "name": "Birdsong"
+  },
+  "120045": {
+   "name": "Bistro At The Cliff House"
+  },
+  "120046": {
+   "name": "Bite"
+  },
+  "120047": {
+   "name": "Bizza"
+  },
+  "120048": {
+   "name": "Blind Butcher"
+  },
+  "120049": {
+   "name": "Blue Barn Gourmet"
+  },
+  "120050": {
+   "name": "Boba Guys"
+  },
+  "120052": {
+   "name": "Bon, Nene"
+  },
+  "120053": {
+   "name": "Boudin Bakery & Cafe"
+  },
+  "120056": {
+   "name": "Brazen Head"
+  },
+  "120058": {
+   "name": "Brenda's French Soul Food"
+  },
+  "120059": {
+   "name": "Brenda's Meat & Three"
+  },
+  "120061": {
+   "name": "Bulgara"
+  },
+  "120062": {
+   "name": "Burma Love"
+  },
+  "120064": {
+   "name": "Burmese Kitchen"
+  },
+  "120065": {
+   "name": "Bursa"
+  },
+  "120068": {
+   "name": "Californios"
+  },
+  "120071": {
+   "name": "CatHead's BBQ"
+  },
+  "120072": {
+   "name": "Cellarmaker House of Pizza"
+  },
+  "120074": {
+   "name": "Champa Garden"
+  },
+  "120082": {
+   "name": "Chubby Noodle"
+  },
+  "120083": {
+   "name": "Cinderella Bakery & Cafe"
+  },
+  "120085": {
+   "name": "Cool Cravings"
+  },
+  "120086": {
+   "name": "Coqueta"
+  },
+  "120087": {
+   "name": "Cordon Bleu"
+  },
+  "120088": {
+   "name": "Corridor Restaurant"
+  },
+  "120089": {
+   "name": "Cotogna"
+  },
+  "120090": {
+   "name": "Crab House at Pier 39"
+  },
+  "120092": {
+   "name": "Craftsman and Wolves"
+  },
+  "120094": {
+   "name": "Crepes On Cole"
+  },
+  "120095": {
+   "name": "Cuisine of Nepal"
+  },
+  "120099": {
+   "name": "De Afghanan Kabob House"
+  },
+  "120100": {
+   "name": "Deccan Spice"
+  },
+  "120101": {
+   "name": "Deli Board"
+  },
+  "120102": {
+   "name": "Delicious Dim Sum"
+  },
+  "120106": {
+   "name": "Dragon Beaux"
+  },
+  "120107": {
+   "name": "DragonEats - The Haight"
+  },
+  "120108": {
+   "name": "DragonEats - SoMa"
+  },
+  "120109": {
+   "name": "Dumpling Alley"
+  },
+  "120111": {
+   "name": "Dumpling Kitchen"
+  },
+  "120113": {
+   "name": "Ebisu"
+  },
+  "120116": {
+   "name": "El Farolito"
+  },
+  "120120": {
+   "name": "Fable"
+  },
+  "120121": {
+   "name": "Falafelland"
+  },
+  "120122": {
+   "name": "Farm : Table"
+  },
+  "120123": {
+   "name": "Farmhouse Kitchen Thai Cuisine"
+  },
+  "120124": {
+   "name": "Fayala"
+  },
+  "120126": {
+   "name": "Flour + Water Pizzeria"
+  },
+  "120127": {
+   "name": "Fog Harbor Fish House"
+  },
+  "120128": {
+   "name": "Foreign Cinema"
+  },
+  "120130": {
+   "name": "Franciscan Crab Restaurant"
+  },
+  "120132": {
+   "name": "Frascati"
+  },
+  "120134": {
+   "name": "Frisco Fried"
+  },
+  "120140": {
+   "name": "Glaze Teriyaki"
+  },
+  "120143": {
+   "name": "Golden State Grill"
+  },
+  "120144": {
+   "name": "Good Luck Dim Sum"
+  },
+  "120145": {
+   "name": "Good Mong Kok Bakery"
+  },
+  "120147": {
+   "name": "Gozu"
+  },
+  "120148": {
+   "name": "Great Mongolia Nomads Restaurant"
+  },
+  "120150": {
+   "name": "Grubbin'"
+  },
+  "120153": {
+   "name": "Han Il Kwan"
+  },
+  "120154": {
+   "name": "Hard Knox Cafe - Potrero Hill"
+  },
+  "120155": {
+   "name": "Hard Knox Cafe - Outer Richmond"
+  },
+  "120158": {
+   "name": "Helmand Palace"
+  },
+  "120159": {
+   "name": "Hinodeya Ramen Bar"
+  },
+  "120161": {
+   "name": "Hogwash"
+  },
+  "120163": {
+   "name": "Hong Kong Clay Pot Restaurant"
+  },
+  "120164": {
+   "name": "Hops & Hominy"
+  },
+  "120165": {
+   "name": "Hot Sauce and Panko"
+  },
+  "120167": {
+   "name": "Hunan Home's Restaurant"
+  },
+  "120174": {
+   "name": "Jake's Steaks"
+  },
+  "120176": {
+   "name": "Jasmine Garden"
+  },
+  "120177": {
+   "name": "Jiangnan Cuisine"
+  },
+  "120178": {
+   "name": "Jin Mi Korean Cuisine"
+  },
+  "120182": {
+   "name": "Kaiju Eats Ramen and Izakaya"
+  },
+  "120184": {
+   "name": "Karaweik Burmese Cuisine"
+  },
+  "120185": {
+   "name": "Kasa Indian Eatery"
+  },
+  "120188": {
+   "name": "Khamsa"
+  },
+  "120190": {
+   "name": "Kim Son Vietnamese Restaurant"
+  },
+  "120191": {
+   "name": "Kin Khao"
+  },
+  "120192": {
+   "name": "Kitava"
+  },
+  "120193": {
+   "name": "Kitchen Istanbul"
+  },
+  "120194": {
+   "name": "Kitchen Story"
+  },
+  "120195": {
+   "name": "KoJa Kitchen"
+  },
+  "120196": {
+   "name": "Kokkari Estiatorio"
+  },
+  "120197": {
+   "name": "Kung Food"
+  },
+  "120200": {
+   "name": "La Mar Cebicheria Peruana"
+  },
+  "120201": {
+   "name": "La Mediterranee - Pacific Heights"
+  },
+  "120202": {
+   "name": "La Mediterranee - Duboce Triangle"
+  },
+  "120203": {
+   "name": "La Taqueria"
+  },
+  "120206": {
+   "name": "Lao Table"
+  },
+  "120212": {
+   "name": "Leopold's"
+  },
+  "120213": {
+   "name": "Liholiho Yacht Club"
+  },
+  "120214": {
+   "name": "Lime Tree Southeast Asian Kitchen - Sunset District"
+  },
+  "120215": {
+   "name": "Lime Tree Southeast Asian Kitchen - Inner Richmond"
+  },
+  "120218": {
+   "name": "Little Gem"
+  },
+  "120225": {
+   "name": "Lovejoy's Tea Room"
+  },
+  "120226": {
+   "name": "Loving Hut"
+  },
+  "120227": {
+   "name": "Lucky Pig"
+  },
+  "120230": {
+   "name": "Ly's Vietnamese Cuisine"
+  },
+  "120233": {
+   "name": "MaMa Ji's"
+  },
+  "120239": {
+   "name": "Mama's On Washington Square"
+  },
+  "120240": {
+   "name": "Mangal Mediterranean Restaurant"
+  },
+  "120242": {
+   "name": "Manna"
+  },
+  "120243": {
+   "name": "Marcella's Lasagneria"
+  },
+  "120244": {
+   "name": "Marlowe"
+  },
+  "120245": {
+   "name": "Marnee Thai"
+  },
+  "120246": {
+   "name": "Mars Bar & Restaurant"
+  },
+  "120247": {
+   "name": "Marufuku Ramen SF"
+  },
+  "120256": {
+   "name": "Mensho Tokyo"
+  },
+  "120262": {
+   "name": "Molinari Delicatessen"
+  },
+  "120263": {
+   "name": "Morty's Delicatessen"
+  },
+  "120269": {
+   "name": "My Tofu House"
+  },
+  "120272": {
+   "name": "New Dumpling King"
+  },
+  "120273": {
+   "name": "New Eritrea Restaurant & Bar"
+  },
+  "120274": {
+   "name": "New Fortune Restaurant"
+  },
+  "120275": {
+   "name": "Newkirk's"
+  },
+  "120277": {
+   "name": "Nick's Crispy Tacos"
+  },
+  "120279": {
+   "name": "Nob Hill Cafe"
+  },
+  "120280": {
+   "name": "Nojo Ramen Tavern"
+  },
+  "120282": {
+   "name": "Nopa"
+  },
+  "120283": {
+   "name": "Nopalito - Sunset District"
+  },
+  "120284": {
+   "name": "Nopalito - Lower Haight"
+  },
+  "120286": {
+   "name": "Nourish Cafe"
+  },
+  "120287": {
+   "name": "Oasis Cafe"
+  },
+  "120289": {
+   "name": "Octavia"
+  },
+  "120291": {
+   "name": "Old Jerusalem Restaurant"
+  },
+  "120293": {
+   "name": "Opa cafe"
+  },
+  "120296": {
+   "name": "Outerlands"
+  },
+  "120297": {
+   "name": "Pacific Cafe"
+  },
+  "120298": {
+   "name": "Pakwan Restaurant"
+  },
+  "120302": {
+   "name": "Pampanguena Cuisine"
+  },
+  "120304": {
+   "name": "Papito Hayes"
+  },
+  "120305": {
+   "name": "Papito Potrero Hill"
+  },
+  "120308": {
+   "name": "Park Tavern"
+  },
+  "120314": {
+   "name": "Perilla - Sunset District"
+  },
+  "120315": {
+   "name": "Perilla - Lower Haight"
+  },
+  "120316": {
+   "name": "Pharaohs Mediterranean Sandwiches"
+  },
+  "120318": {
+   "name": "Pho 2000"
+  },
+  "120319": {
+   "name": "Pho Huynh Hiep 2 - Kevin's Noodle House"
+  },
+  "120320": {
+   "name": "Pica Pica Arepa Kitchen"
+  },
+  "120321": {
+   "name": "Picaro"
+  },
+  "120322": {
+   "name": "Piccino"
+  },
+  "120323": {
+   "name": "Piccolo Forno"
+  },
+  "120324": {
+   "name": "Pier 23 Cafe Restaurant & Bar"
+  },
+  "120325": {
+   "name": "Pier Market Seafood Restaurant"
+  },
+  "120327": {
+   "name": "Pizzeria Delfina - Pacific Heights"
+  },
+  "120328": {
+   "name": "Pizzetta 211"
+  },
+  "120329": {
+   "name": "Plain Jane"
+  },
+  "120331": {
+   "name": "Plaj Scandinavian Restaurant & Bar"
+  },
+  "120332": {
+   "name": "Presidio Kebab"
+  },
+  "120333": {
+   "name": "Proposition Chicken"
+  },
+  "120337": {
+   "name": "Pushkin"
+  },
+  "120344": {
+   "name": "Ramenwell"
+  },
+  "120348": {
+   "name": "Rintaro"
+  },
+  "120349": {
+   "name": "Rin's Thai Restaurant"
+  },
+  "120351": {
+   "name": "Roam Artisan Burgers"
+  },
+  "120352": {
+   "name": "Roma Antica"
+  },
+  "120353": {
+   "name": "Rooster & Rice - Marina"
+  },
+  "120354": {
+   "name": "Rooster & Rice - Inner Richmond"
+  },
+  "120355": {
+   "name": "Rooster & Rice - Castro"
+  },
+  "120356": {
+   "name": "Rooster & Rice - Union Square"
+  },
+  "120357": {
+   "name": "Rooster & Rice - SoMa"
+  },
+  "120361": {
+   "name": "Rusty's Southern"
+  },
+  "120363": {
+   "name": "SAJJ Mediterranean - Financial District"
+  },
+  "120364": {
+   "name": "SF Honey Pig Korean BBQ"
+  },
+  "120367": {
+   "name": "Saffron 685"
+  },
+  "120369": {
+   "name": "Saigon Sandwich"
+  },
+  "120370": {
+   "name": "Sam Wo Restaurant"
+  },
+  "120372": {
+   "name": "Saru Sushi Bar"
+  },
+  "120373": {
+   "name": "Saucy Asian"
+  },
+  "120375": {
+   "name": "Sessions at the Presidio"
+  },
+  "120376": {
+   "name": "Seven Hills"
+  },
+  "120379": {
+   "name": "Shalimar"
+  },
+  "120380": {
+   "name": "Shish Ke Baba"
+  },
+  "120381": {
+   "name": "Slice House Haight by Tony Gemignani"
+  },
+  "120384": {
+   "name": "Smokin' Warehouse Barbecue - Sacramento Street"
+  },
+  "120385": {
+   "name": "Sons & Daughters"
+  },
+  "120388": {
+   "name": "Souvla - NoPa"
+  },
+  "120390": {
+   "name": "Souvla - Mission"
+  },
+  "120391": {
+   "name": "Souvla - Marina"
+  },
+  "120396": {
+   "name": "Starbelly"
+  },
+  "120397": {
+   "name": "State Bird Provisions"
+  },
+  "120398": {
+   "name": "Stem Kitchen & Garden"
+  },
+  "120399": {
+   "name": "Stix"
+  },
+  "120401": {
+   "name": "Subs"
+  },
+  "120402": {
+   "name": "Sugarhill Kitchen"
+  },
+  "120404": {
+   "name": "Sumac"
+  },
+  "120406": {
+   "name": "Super Duper Burgers - Duboce Triangle"
+  },
+  "120407": {
+   "name": "Super Duper Burgers - Union Square"
+  },
+  "120408": {
+   "name": "Super Duper Burgers - SoMa"
+  },
+  "120409": {
+   "name": "Super Pan"
+  },
+  "120411": {
+   "name": "Sushirrito"
+  },
+  "120412": {
+   "name": "Sutro's at The Cliff House"
+  },
+  "120413": {
+   "name": "Swan Oyster Depot"
+  },
+  "120416": {
+   "name": "Taboun"
+  },
+  "120417": {
+   "name": "Tacko"
+  },
+  "120419": {
+   "name": "Tacorea"
+  },
+  "120421": {
+   "name": "Tacos El Patron"
+  },
+  "120423": {
+   "name": "Tadu Ethiopian Kitchen - Tenderloin"
+  },
+  "120424": {
+   "name": "Tadu Ethiopian Kitchen - Mission Bay"
+  },
+  "120425": {
+   "name": "Takara Sushi"
+  },
+  "120426": {
+   "name": "Tanguito"
+  },
+  "120427": {
+   "name": "Taqueria Los Coyotes"
+  },
+  "120430": {
+   "name": "Tartine Bakery & Cafe"
+  },
+  "120432": {
+   "name": "Tasty Pot"
+  },
+  "120436": {
+   "name": "Thai House Express"
+  },
+  "120437": {
+   "name": "Thai Time Restaurant"
+  },
+  "120438": {
+   "name": "The Alembic"
+  },
+  "120439": {
+   "name": "The American Grilled Cheese Kitchen"
+  },
+  "120440": {
+   "name": "The Bird"
+  },
+  "120444": {
+   "name": "The Cheesecake Factory"
+  },
+  "120447": {
+   "name": "The Fly Trap"
+  },
+  "120448": {
+   "name": "The Flying Falafel"
+  },
+  "120449": {
+   "name": "The Front Porch"
+  },
+  "120450": {
+   "name": "The GrilledCheezGuy"
+  },
+  "120451": {
+   "name": "The Halal Guys"
+  },
+  "120453": {
+   "name": "The Italian Homemade Company - Russian Hill"
+  },
+  "120454": {
+   "name": "The Italian Homemade Company - Marina"
+  },
+  "120455": {
+   "name": "The Italian Homemade Company - Hayes Valley"
+  },
+  "120456": {
+   "name": "The Little Chihuahua"
+  },
+  "120457": {
+   "name": "The Melt - 455 Market"
+  },
+  "120458": {
+   "name": "The Monk's Kettle"
+  },
+  "120460": {
+   "name": "The Pawn Shop"
+  },
+  "120462": {
+   "name": "The Progress"
+  },
+  "120463": {
+   "name": "The Ramp"
+  },
+  "120465": {
+   "name": "The Rotunda"
+  },
+  "120466": {
+   "name": "The Snug"
+  },
+  "120470": {
+   "name": "The View Lounge"
+  },
+  "120472": {
+   "name": "Tilak"
+  },
+  "120475": {
+   "name": "Tony's Pizza Napoletana"
+  },
+  "120476": {
+   "name": "Tortellino"
+  },
+  "120480": {
+   "name": "Troya"
+  },
+  "120481": {
+   "name": "True Laurel"
+  },
+  "120482": {
+   "name": "Truly Mediterranean"
+  },
+  "120483": {
+   "name": "Tselogs - Tenderloin"
+  },
+  "120484": {
+   "name": "Tselogs - Mission"
+  },
+  "120485": {
+   "name": "Tuba Authentic Turkish Restaurant"
+  },
+  "120486": {
+   "name": "Turner's Kitchen"
+  },
+  "120491": {
+   "name": "Um Ma Son"
+  },
+  "120494": {
+   "name": "Umami Burger Soma District"
+  },
+  "120495": {
+   "name": "Uncle Boy's"
+  },
+  "120496": {
+   "name": "Underdogs Too"
+  },
+  "120498": {
+   "name": "Uno Dos Tacos"
+  },
+  "120501": {
+   "name": "Ushio Ramen"
+  },
+  "120510": {
+   "name": "Warakubune Sushi"
+  },
+  "120512": {
+   "name": "Waterfront Restaurant"
+  },
+  "120515": {
+   "name": "What The Cluck"
+  },
+  "120519": {
+   "name": "Woodhouse Fish"
+  },
+  "120521": {
+   "name": "YH-Beijing"
+  },
+  "120527": {
+   "name": "Zazie"
+  },
+  "120528": {
+   "name": "Zen Yai Thai Restaurant"
+  },
+  "120529": {
+   "name": "Zuni Cafe"
+  }
+ },
+ "taxi": {
+  "*": {
+   "name": null
+  }
+ },
+ "train": {
+  "*": {
+   "name": null
+  }
+ },
+ "attraction": {
+  "100001": {
+   "name": "7D Experience"
+  },
+  "100003": {
+   "name": "Alamo Square"
+  },
+  "100005": {
+   "name": "Alcatraz Island"
+  },
+  "100011": {
+   "name": "Aquarium Of The Bay"
+  },
+  "100012": {
+   "name": "Baker Beach"
+  },
+  "100013": {
+   "name": "Balmy Street Murals"
+  },
+  "100015": {
+   "name": "Batteries to Bluffs Trail"
+  },
+  "100017": {
+   "name": "Bay City Bike Rentals and Tours - The Haight"
+  },
+  "100019": {
+   "name": "Bay City Bike Rentals and Tours - Fisherman's Wharf"
+  },
+  "100022": {
+   "name": "Belden Place"
+  },
+  "100023": {
+   "name": "Bernal Heights Park"
+  },
+  "100026": {
+   "name": "Cable Car - California Street Line"
+  },
+  "100027": {
+   "name": "Cable Car - Powell/Hyde Line"
+  },
+  "100028": {
+   "name": "Cable Car - Powell/Mason Line"
+  },
+  "100029": {
+   "name": "Cable Car Museum"
+  },
+  "100030": {
+   "name": "California Academy of Sciences"
+  },
+  "100031": {
+   "name": "Camera Obscura"
+  },
+  "100033": {
+   "name": "Cartoon Art Museum"
+  },
+  "100035": {
+   "name": "China Beach"
+  },
+  "100037": {
+   "name": "City Lights Bookstore"
+  },
+  "100040": {
+   "name": "Clarion Alley"
+  },
+  "100041": {
+   "name": "Coit Tower"
+  },
+  "100042": {
+   "name": "Conservatory of Flowers"
+  },
+  "100043": {
+   "name": "Contemporary Jewish Museum"
+  },
+  "100045": {
+   "name": "Cupid's Span"
+  },
+  "100046": {
+   "name": "de Young"
+  },
+  "100047": {
+   "name": "Dolores Park"
+  },
+  "100049": {
+   "name": "Dragon Gate"
+  },
+  "100052": {
+   "name": "Embarcadero Public Promenade"
+  },
+  "100054": {
+   "name": "Exploratorium"
+  },
+  "100055": {
+   "name": "Exploratorium After Dark"
+  },
+  "100056": {
+   "name": "Ferry Building Bike Rentals"
+  },
+  "100057": {
+   "name": "Ferry Building Marketplace"
+  },
+  "100058": {
+   "name": "Filbert Steps"
+  },
+  "100059": {
+   "name": "Fisherman's Wharf"
+  },
+  "100062": {
+   "name": "Fort Point"
+  },
+  "100064": {
+   "name": "Golden Gate Bridge"
+  },
+  "100065": {
+   "name": "Golden Gate Bridge Welcome Center"
+  },
+  "100070": {
+   "name": "Grace Cathedral"
+  },
+  "100072": {
+   "name": "Gregangelo's Velocity Arts & Entertainment"
+  },
+  "100074": {
+   "name": "Haas-Lilienthal House"
+  },
+  "100077": {
+   "name": "Hidden Garden Steps"
+  },
+  "100080": {
+   "name": "Hyde Street Beach"
+  },
+  "100081": {
+   "name": "Hyde Street Pier"
+  },
+  "100082": {
+   "name": "Ina Coolbrith Park"
+  },
+  "100084": {
+   "name": "Japantown"
+  },
+  "100086": {
+   "name": "Kadampa Meditation Center San Francisco"
+  },
+  "100087": {
+   "name": "Lake Merced"
+  },
+  "100089": {
+   "name": "Lands End Lookout"
+  },
+  "100092": {
+   "name": "Legion of Honor"
+  },
+  "100093": {
+   "name": "Lombard Street"
+  },
+  "100096": {
+   "name": "Madame Tussauds San Francisco"
+  },
+  "100097": {
+   "name": "Magowan's Infinite Mirror Maze"
+  },
+  "100099": {
+   "name": "Martin Luther King Jr Memorial"
+  },
+  "100101": {
+   "name": "McKinley Square Park Foundation"
+  },
+  "100102": {
+   "name": "Mission Dolores Basilica/San Francisco de Asis"
+  },
+  "100103": {
+   "name": "Mount Davidson Park"
+  },
+  "100105": {
+   "name": "Municipal Pier"
+  },
+  "100106": {
+   "name": "Musee Mecanique"
+  },
+  "100107": {
+   "name": "Museum Of 3D Illusions"
+  },
+  "100113": {
+   "name": "North Beach"
+  },
+  "100114": {
+   "name": "Oakland Museum of California"
+  },
+  "100115": {
+   "name": "Ocean Beach"
+  },
+  "100118": {
+   "name": "Painted Ladies"
+  },
+  "100120": {
+   "name": "Palace Of Fine Arts"
+  },
+  "100122": {
+   "name": "Pier 33"
+  },
+  "100123": {
+   "name": "Pier 39"
+  },
+  "100124": {
+   "name": "Pier 7"
+  },
+  "100129": {
+   "name": "Randall Museum"
+  },
+  "100131": {
+   "name": "Ripley's Believe It or Not!"
+  },
+  "100138": {
+   "name": "San Francisco Botanical Garden"
+  },
+  "100140": {
+   "name": "Chinatown"
+  },
+  "100143": {
+   "name": "San Francisco City Hall"
+  },
+  "100147": {
+   "name": "San Francisco Museum of Modern Art"
+  },
+  "100150": {
+   "name": "San Francisco Zoo"
+  },
+  "100157": {
+   "name": "Seward Street Slides"
+  },
+  "100158": {
+   "name": "SF Citadel"
+  },
+  "100164": {
+   "name": "Subpar Miniature Golf"
+  },
+  "100165": {
+   "name": "Sutro Baths"
+  },
+  "100168": {
+   "name": "The 16th Avenue Tiled Steps"
+  },
+  "100170": {
+   "name": "Cathedral of Saint Mary of the Assumption"
+  },
+  "100171": {
+   "name": "Embarcadero Waterfront"
+  },
+  "100172": {
+   "name": "The Flyer - San Francisco"
+  },
+  "100173": {
+   "name": "The Glass Elevators"
+  },
+  "100174": {
+   "name": "Gregangelo Museum"
+  },
+  "100176": {
+   "name": "The Mrs. Doubtfire House"
+  },
+  "100177": {
+   "name": "The Presidio"
+  },
+  "100178": {
+   "name": "San Francisco Dungeon"
+  },
+  "100180": {
+   "name": "San Francisco-Oakland Bay Bridge"
+  },
+  "100181": {
+   "name": "Walt Disney Family Museum"
+  },
+  "100183": {
+   "name": "Tom and Jerry's House"
+  },
+  "100184": {
+   "name": "Torpedo Wharf"
+  },
+  "100187": {
+   "name": "Twin Peaks"
+  },
+  "100189": {
+   "name": "Union Square"
+  },
+  "100193": {
+   "name": "Vallejo Street Steps"
+  },
+  "100197": {
+   "name": "Wave Organ"
+  },
+  "100200": {
+   "name": "Yoda Fountain at Lucasfilm"
+  }
+ }
+}

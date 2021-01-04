@@ -38,7 +38,6 @@ def evaluate(args,eval_dataset):
         example['choices']=[choice[0] for choice in example['choices']]
         choices=example['choices']
         choice_types=example['choice_types']
-        print(choices)
         if (len(logs) > 1):
             premise = "System says " + logs[-2]['text'][0] + ". " + "User says " + logs[-1][
                 'text'][0]

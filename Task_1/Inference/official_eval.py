@@ -34,22 +34,19 @@ def evaluate(args,eval_dataset):
     for batch in tqdm(eval_dataloader,desc='Official Evaluation'):
         # example,label=batch
         example=batch
-#         print(example)
         logs=example['logs']
         example['choices']=[choice[0] for choice in example['choices']]
         choices=example['choices']
         choice_types=example['choice_types']
         print(choices)
         if (len(logs) > 1):
-            premise = "System says " + logs[-2]['text'] + ". " + "User says " + log[-1][
-                'text']
+            premise = "System says " + logs[-2]['text'][0] + ". " + "User says " + logs[-1][
+                'text'][0]
         else:
-            premise = "User says " + logs[-1]['text']
+            premise = "User says " + logs[-1]['text'][0]
         pred=classifier(premise, choices)
         preds.append(pred)
-        print('pred',pred['labels'][0])
         examples.append(example)
-    print(preds)
     pred_types=[]
     pred_answers=[]
     final_answers={}

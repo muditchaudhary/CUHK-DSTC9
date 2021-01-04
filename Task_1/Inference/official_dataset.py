@@ -74,7 +74,7 @@ class DSTC_NLI_Dataset_for_Pipe(torch.utils.data.Dataset):
             with open(os.path.join(self.dataroot, "knowledge.json")) as knowledge_file:
                 self.knowledge = json.load(knowledge_file)
 
-        database_dialog, database_label = load_database.load_database(self.extracted_data)
+        #database_dialog, database_label = load_database.load_database(self.extracted_data)
         for log in tqdm(logs, disable=False):
             example = {}
             if (len(log) > 2 and self.utterance_window == 3):
@@ -107,7 +107,7 @@ class DSTC_NLI_Dataset_for_Pipe(torch.utils.data.Dataset):
             example['choices'].extend(remaining_knowledge)
             example['choice_types'].extend([True] * len(remaining_knowledge))
             self.premise_hypothesis_examples.append(example)
-        print('len of database', len(database_dialog))
+        #print('len of database', len(database_dialog))
 
     def get_database_knowledge_for_knowledge_example(self, premise, domain, entity_id):
         with open(domain + '_db.json', 'r') as f:

@@ -111,7 +111,7 @@ class DSTC_NLI_Dataset_for_Pipe(torch.utils.data.Dataset):
         #print('len of database', len(database_dialog))
 
     def get_database_knowledge_for_knowledge_example(self, premise, domain, entity_id):
-        with open(domain + '_db.json', 'r') as f:
+        with open("./db/"+domain + '_db.json', 'r') as f:
             domain_database = json.load(f)
         candidates = []
         if entity_id == '*':

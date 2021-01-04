@@ -55,7 +55,6 @@ def evaluate(args,eval_dataset):
         pred_target=example['choice_types'][example['choices'].index(pred['labels'][0])]
         choice=pred['labels'][0]
         final_answers[str(index)]={'log':example['logs'],'pred':bool(pred_target),'all_choice':pred['labels']}
-        print(final_answers[str(index)])
     with open(args.outfile,'w') as f:
         json.dump(final_answers,f,indent=4)
 

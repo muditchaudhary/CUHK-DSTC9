@@ -340,7 +340,7 @@ class DSTC_NLI_Dataset_for_Pipe(torch.utils.data.Dataset):
         """
         for domain in domain_set:
             entity_names_for_all_domains[domain] = []
-            with open(domain + '_db.json') as f:
+            with open("./db"+ domain + '_db.json') as f:
                 domain_database = json.load(f)
             entity_name = None
             for entity in domain_database[0].keys():

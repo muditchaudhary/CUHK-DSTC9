@@ -2,15 +2,15 @@ import json
 from tqdm import tqdm
 import torch
 import os
-from .load_database import load_database
+from load_database import load_database
 import random
 from fuzzywuzzy import process
 import numpy as np
-from .api_src.surfMatch import *
-from .entity_classifier import extract_entity
+from api_src.surfMatch import *
+from entity_classifier import extract_entity
 
 id_entity_name = ['name']
-from .domain_classifier import extract_domain
+from domain_classifier import extract_domain
 
 domain_set = ['hotel', 'restaurant', 'train', 'taxi', 'attraction']
 entity_names_for_all_domains = {}

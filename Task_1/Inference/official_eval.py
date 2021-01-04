@@ -18,7 +18,7 @@ classifier = pipeline("zero-shot-classification", model=model)
 from tqdm import tqdm
 from torch.utils.data import DataLoader, RandomSampler, SequentialSampler
 
-def evaluate(args,eval_dataset,outfile):
+def evaluate(args,eval_dataset):
     args.eval_batch_size=1
     eval_sampler=SequentialSampler(eval_dataset)
     # Set eval batch size = 1
@@ -60,7 +60,7 @@ def evaluate(args,eval_dataset,outfile):
         choice=pred['labels'][0]
         final_answers[str(index)]={'log':example['logs'],'pred':bool(pred_target),'all_choice':pred['labels']}
         print(final_answers[str(index)])
-    with open('test_final_answers.json','w') as f:
+    with open(args.outfile,'w') as f:
         json.dump(final_answers,f,indent=4)
 
 

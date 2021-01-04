@@ -1,0 +1,422 @@
+[
+  [
+    {
+      "speaker": "U",
+      "text": "I'd really like to take my client out to a nice restaurant that serves indian food."
+    }
+  ],
+  [
+    {
+      "speaker": "U",
+      "text": "I'd really like to take my client out to a nice restaurant that serves indian food."
+    },
+    {
+      "speaker": "S",
+      "text": "I show many restaurants that serve Indian food in that price range. What area would you like to travel to?"
+    },
+    {
+      "speaker": "U",
+      "text": "Indian food is usually vegetarian friendly, right?"
+    }
+  ],
+  [
+    {
+      "speaker": "U",
+      "text": "I'd really like to take my client out to a nice restaurant that serves indian food."
+    },
+    {
+      "speaker": "S",
+      "text": "I show many restaurants that serve Indian food in that price range. What area would you like to travel to?"
+    },
+    {
+      "speaker": "U",
+      "text": "Indian food is usually vegetarian friendly, right?"
+    },
+    {
+      "speaker": "S",
+      "text": "Yes, Indian restaurants typically have vegetarian options. Would you like me to recommend a restaurant for you?"
+    },
+    {
+      "speaker": "U",
+      "text": "I am looking for an expensive indian restaurant in the area of centre."
+    }
+  ],
+  [
+    {
+      "speaker": "U",
+      "text": "I'd really like to take my client out to a nice restaurant that serves indian food."
+    },
+    {
+      "speaker": "S",
+      "text": "I show many restaurants that serve Indian food in that price range. What area would you like to travel to?"
+    },
+    {
+      "speaker": "U",
+      "text": "Indian food is usually vegetarian friendly, right?"
+    },
+    {
+      "speaker": "S",
+      "text": "Yes, Indian restaurants typically have vegetarian options. Would you like me to recommend a restaurant for you?"
+    },
+    {
+      "speaker": "U",
+      "text": "I am looking for an expensive indian restaurant in the area of centre."
+    },
+    {
+      "speaker": "S",
+      "text": "Might I recommend Saffron Brasserie? That is an expensive Indian restaurant in the center of town. I can book a table for you, if you like."
+    },
+    {
+      "speaker": "U",
+      "text": "Sure thing, please book for 6 people at 19:30 on Saturday."
+    }
+  ],
+  [
+    {
+      "speaker": "U",
+      "text": "I'd really like to take my client out to a nice restaurant that serves indian food."
+    },
+    {
+      "speaker": "S",
+      "text": "I show many restaurants that serve Indian food in that price range. What area would you like to travel to?"
+    },
+    {
+      "speaker": "U",
+      "text": "Indian food is usually vegetarian friendly, right?"
+    },
+    {
+      "speaker": "S",
+      "text": "Yes, Indian restaurants typically have vegetarian options. Would you like me to recommend a restaurant for you?"
+    },
+    {
+      "speaker": "U",
+      "text": "I am looking for an expensive indian restaurant in the area of centre."
+    },
+    {
+      "speaker": "S",
+      "text": "Might I recommend Saffron Brasserie? That is an expensive Indian restaurant in the center of town. I can book a table for you, if you like."
+    },
+    {
+      "speaker": "U",
+      "text": "Sure thing, please book for 6 people at 19:30 on Saturday."
+    },
+    {
+      "speaker": "S",
+      "text": "Booking was successful. The table will be reserved for 15 minutes. Your Reference number is : RF00JUFQ."
+    },
+    {
+      "speaker": "U",
+      "text": "Okay great! Thank you so much. Could you also help me find a 3 star hotel in the area. I don't need wifi either."
+    }
+  ],
+  [
+    {
+      "speaker": "U",
+      "text": "I'd really like to take my client out to a nice restaurant that serves indian food."
+    },
+    {
+      "speaker": "S",
+      "text": "I show many restaurants that serve Indian food in that price range. What area would you like to travel to?"
+    },
+    {
+      "speaker": "U",
+      "text": "Indian food is usually vegetarian friendly, right?"
+    },
+    {
+      "speaker": "S",
+      "text": "Yes, Indian restaurants typically have vegetarian options. Would you like me to recommend a restaurant for you?"
+    },
+    {
+      "speaker": "U",
+      "text": "I am looking for an expensive indian restaurant in the area of centre."
+    },
+    {
+      "speaker": "S",
+      "text": "Might I recommend Saffron Brasserie? That is an expensive Indian restaurant in the center of town. I can book a table for you, if you like."
+    },
+    {
+      "speaker": "U",
+      "text": "Sure thing, please book for 6 people at 19:30 on Saturday."
+    },
+    {
+      "speaker": "S",
+      "text": "Booking was successful. The table will be reserved for 15 minutes. Your Reference number is : RF00JUFQ."
+    },
+    {
+      "speaker": "U",
+      "text": "Okay great! Thank you so much. Could you also help me find a 3 star hotel in the area. I don't need wifi either."
+    },
+    {
+      "speaker": "S",
+      "text": "The alpha-milton guest house is in the north and is moderately priced. It has 3 stars and no internet or parking. Would you like to book a room?"
+    },
+    {
+      "speaker": "U",
+      "text": "Does this hotel offer it's guests wifi services?"
+    }
+  ],
+  [
+    {
+      "speaker": "U",
+      "text": "I'd really like to take my client out to a nice restaurant that serves indian food."
+    },
+    {
+      "speaker": "S",
+      "text": "I show many restaurants that serve Indian food in that price range. What area would you like to travel to?"
+    },
+    {
+      "speaker": "U",
+      "text": "Indian food is usually vegetarian friendly, right?"
+    },
+    {
+      "speaker": "S",
+      "text": "Yes, Indian restaurants typically have vegetarian options. Would you like me to recommend a restaurant for you?"
+    },
+    {
+      "speaker": "U",
+      "text": "I am looking for an expensive indian restaurant in the area of centre."
+    },
+    {
+      "speaker": "S",
+      "text": "Might I recommend Saffron Brasserie? That is an expensive Indian restaurant in the center of town. I can book a table for you, if you like."
+    },
+    {
+      "speaker": "U",
+      "text": "Sure thing, please book for 6 people at 19:30 on Saturday."
+    },
+    {
+      "speaker": "S",
+      "text": "Booking was successful. The table will be reserved for 15 minutes. Your Reference number is : RF00JUFQ."
+    },
+    {
+      "speaker": "U",
+      "text": "Okay great! Thank you so much. Could you also help me find a 3 star hotel in the area. I don't need wifi either."
+    },
+    {
+      "speaker": "S",
+      "text": "The alpha-milton guest house is in the north and is moderately priced. It has 3 stars and no internet or parking. Would you like to book a room?"
+    },
+    {
+      "speaker": "U",
+      "text": "Does this hotel offer it's guests wifi services?"
+    },
+    {
+      "speaker": "S",
+      "text": "Free Wifi is available at the Alpha-Milton Guest House for its stayers. Should I go ahead and book it for you?"
+    },
+    {
+      "speaker": "U",
+      "text": "That sounds great. Please book that now."
+    }
+  ],
+  [
+    {
+      "speaker": "U",
+      "text": "I'd really like to take my client out to a nice restaurant that serves indian food."
+    },
+    {
+      "speaker": "S",
+      "text": "I show many restaurants that serve Indian food in that price range. What area would you like to travel to?"
+    },
+    {
+      "speaker": "U",
+      "text": "Indian food is usually vegetarian friendly, right?"
+    },
+    {
+      "speaker": "S",
+      "text": "Yes, Indian restaurants typically have vegetarian options. Would you like me to recommend a restaurant for you?"
+    },
+    {
+      "speaker": "U",
+      "text": "I am looking for an expensive indian restaurant in the area of centre."
+    },
+    {
+      "speaker": "S",
+      "text": "Might I recommend Saffron Brasserie? That is an expensive Indian restaurant in the center of town. I can book a table for you, if you like."
+    },
+    {
+      "speaker": "U",
+      "text": "Sure thing, please book for 6 people at 19:30 on Saturday."
+    },
+    {
+      "speaker": "S",
+      "text": "Booking was successful. The table will be reserved for 15 minutes. Your Reference number is : RF00JUFQ."
+    },
+    {
+      "speaker": "U",
+      "text": "Okay great! Thank you so much. Could you also help me find a 3 star hotel in the area. I don't need wifi either."
+    },
+    {
+      "speaker": "S",
+      "text": "The alpha-milton guest house is in the north and is moderately priced. It has 3 stars and no internet or parking. Would you like to book a room?"
+    },
+    {
+      "speaker": "U",
+      "text": "Does this hotel offer it's guests wifi services?"
+    },
+    {
+      "speaker": "S",
+      "text": "Free Wifi is available at the Alpha-Milton Guest House for its stayers. Should I go ahead and book it for you?"
+    },
+    {
+      "speaker": "U",
+      "text": "That sounds great. Please book that now."
+    },
+    {
+      "speaker": "S",
+      "text": "May I ask how many people are in your group?"
+    },
+    {
+      "speaker": "U",
+      "text": "I have 6 people in my group."
+    }
+  ],
+  [
+    {
+      "speaker": "U",
+      "text": "I'd really like to take my client out to a nice restaurant that serves indian food."
+    },
+    {
+      "speaker": "S",
+      "text": "I show many restaurants that serve Indian food in that price range. What area would you like to travel to?"
+    },
+    {
+      "speaker": "U",
+      "text": "Indian food is usually vegetarian friendly, right?"
+    },
+    {
+      "speaker": "S",
+      "text": "Yes, Indian restaurants typically have vegetarian options. Would you like me to recommend a restaurant for you?"
+    },
+    {
+      "speaker": "U",
+      "text": "I am looking for an expensive indian restaurant in the area of centre."
+    },
+    {
+      "speaker": "S",
+      "text": "Might I recommend Saffron Brasserie? That is an expensive Indian restaurant in the center of town. I can book a table for you, if you like."
+    },
+    {
+      "speaker": "U",
+      "text": "Sure thing, please book for 6 people at 19:30 on Saturday."
+    },
+    {
+      "speaker": "S",
+      "text": "Booking was successful. The table will be reserved for 15 minutes. Your Reference number is : RF00JUFQ."
+    },
+    {
+      "speaker": "U",
+      "text": "Okay great! Thank you so much. Could you also help me find a 3 star hotel in the area. I don't need wifi either."
+    },
+    {
+      "speaker": "S",
+      "text": "The alpha-milton guest house is in the north and is moderately priced. It has 3 stars and no internet or parking. Would you like to book a room?"
+    },
+    {
+      "speaker": "U",
+      "text": "Does this hotel offer it's guests wifi services?"
+    },
+    {
+      "speaker": "S",
+      "text": "Free Wifi is available at the Alpha-Milton Guest House for its stayers. Should I go ahead and book it for you?"
+    },
+    {
+      "speaker": "U",
+      "text": "That sounds great. Please book that now."
+    },
+    {
+      "speaker": "S",
+      "text": "May I ask how many people are in your group?"
+    },
+    {
+      "speaker": "U",
+      "text": "I have 6 people in my group."
+    },
+    {
+      "speaker": "S",
+      "text": "How many days would you like to stay?"
+    },
+    {
+      "speaker": "U",
+      "text": "2 nights, starting the same day as the reservation."
+    }
+  ],
+  [
+    {
+      "speaker": "U",
+      "text": "I'd really like to take my client out to a nice restaurant that serves indian food."
+    },
+    {
+      "speaker": "S",
+      "text": "I show many restaurants that serve Indian food in that price range. What area would you like to travel to?"
+    },
+    {
+      "speaker": "U",
+      "text": "Indian food is usually vegetarian friendly, right?"
+    },
+    {
+      "speaker": "S",
+      "text": "Yes, Indian restaurants typically have vegetarian options. Would you like me to recommend a restaurant for you?"
+    },
+    {
+      "speaker": "U",
+      "text": "I am looking for an expensive indian restaurant in the area of centre."
+    },
+    {
+      "speaker": "S",
+      "text": "Might I recommend Saffron Brasserie? That is an expensive Indian restaurant in the center of town. I can book a table for you, if you like."
+    },
+    {
+      "speaker": "U",
+      "text": "Sure thing, please book for 6 people at 19:30 on Saturday."
+    },
+    {
+      "speaker": "S",
+      "text": "Booking was successful. The table will be reserved for 15 minutes. Your Reference number is : RF00JUFQ."
+    },
+    {
+      "speaker": "U",
+      "text": "Okay great! Thank you so much. Could you also help me find a 3 star hotel in the area. I don't need wifi either."
+    },
+    {
+      "speaker": "S",
+      "text": "The alpha-milton guest house is in the north and is moderately priced. It has 3 stars and no internet or parking. Would you like to book a room?"
+    },
+    {
+      "speaker": "U",
+      "text": "Does this hotel offer it's guests wifi services?"
+    },
+    {
+      "speaker": "S",
+      "text": "Free Wifi is available at the Alpha-Milton Guest House for its stayers. Should I go ahead and book it for you?"
+    },
+    {
+      "speaker": "U",
+      "text": "That sounds great. Please book that now."
+    },
+    {
+      "speaker": "S",
+      "text": "May I ask how many people are in your group?"
+    },
+    {
+      "speaker": "U",
+      "text": "I have 6 people in my group."
+    },
+    {
+      "speaker": "S",
+      "text": "How many days would you like to stay?"
+    },
+    {
+      "speaker": "U",
+      "text": "2 nights, starting the same day as the reservation."
+    },
+    {
+      "speaker": "S",
+      "text": "I'm sorry. It looks like they're full. Would you like me to look for something else?"
+    },
+    {
+      "speaker": "U",
+      "text": "Yes please. Is there something else available in that area?"
+    }
+  ]
+]

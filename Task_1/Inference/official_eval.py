@@ -13,7 +13,7 @@ from transformers import pipeline
 import argparse
 import official_dataset
 # model="./runs_POD_version3/checkpoint-2400_new"
-model="./runs_POD_version3/checkpoint-2540-tfexample-30000"
+model="./models/checkpoint-2540-tfexample-30000"
 classifier = pipeline("zero-shot-classification", model=model)
 from tqdm import tqdm
 from torch.utils.data import DataLoader, RandomSampler, SequentialSampler
@@ -40,8 +40,13 @@ def evaluate(args,eval_dataset,outfile):
         choices=example['choices']
         choice_types=example['choice_types']
         print(choices)
-        pred=classifier(logs[-1], choices)
-        preds.append(pred )
+        if (len(logs) > 1):
+            premise = "System says " + logs[-2]['text'] + ". " + "User says " + log[-1][
+                'text']
+        else:
+            premise = "User says " + logs[-1]['text']
+        pred=classifier(premise, choices)
+        preds.append(pred)
         print('pred',pred['labels'][0])
         examples.append(example)
     print(preds)
